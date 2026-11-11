@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Stardust-SourceRepairCandidate",
+    "entry": "Stardust.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "722116c41c12454698e3360919b455cb3135a6de88739a746ff8b8775130121b",
+    "source_commit": "24da290a779ef6f4cd85b47566a1bfd8a58bdb20",
+    "variant": "local source repair candidate; not the retained SSCAIT binary"
+  },
+  {
+    "name": "PurpleWave",
+    "entry": "Bootstrap.dll",
+    "kind": "java",
+    "backend": "client",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "8ceb168477e2e9c2ec84cf793e1bd38c520fbe3286c5255f52da0ba70cce7395",
+    "payload": "PurpleWave.jar",
+    "payload_sha256": "a3c973134417aa931efa96f95a6fcdea79cf6ee211608615127932c2be8ccd53"
+  },
+  {
+    "name": "BananaBrain",
+    "entry": "BananaBrain.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "260ea5a5532f55c38fbc26adea8e9d90e595647187510e25b6d06ba914269639"
+  },
+  {
+    "name": "Locutus",
+    "entry": "Locutus.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "fc087dbd77934e74396307a90bef83908e304c509453ad207c41902c2e7d7e47"
+  },
+  {
+    "name": "tscmoo-AuthorCandidate",
+    "entry": "TscAuthorCandidate.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "51f5371752329ffb07cdf5d159522bcffc6f66d0358cfd4eff02ee4eb759f722"
+  },
+  {
+    "name": "Steamhammer",
+    "entry": "Steamhammer.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "a45481cfe3225bdc0df4db47d946f62ef1df24c50b780e4344cd8a664181cdde"
+  },
+  {
+    "name": "McRave",
+    "entry": "McRave.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "07c3dbee9641e7e9c145654e2e5de75be05d969c5bae30a61eb3a8eb736fccdc"
+  },
+  {
+    "name": "HladHammer",
+    "entry": "HladHammer.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "0a6057f10039cd30f850017fca8206eddd5ab81f1e07e16807dfd4b7351b4def"
+  },
+  {
+    "name": "PylonPuller",
+    "entry": "PylonPuller.dll",
+    "kind": "dll",
+    "backend": "stock",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "171b0feca4b5bd065d3fb0c1d6c46a4946a1cddb0860cb731384ad3acddf1c52"
+  },
+  {
+    "name": "Skynet",
+    "entry": "Skynet.dll",
+    "kind": "dll",
+    "backend": "legacy",
+    "race": "Protoss",
+    "official_version_match": false,
+    "binary_sha256": "0ae28ddf960ea789e2bdd472957c8b988406ab32359c9f3a3063bb569230ffc4"
+  }
+]

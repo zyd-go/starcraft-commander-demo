@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-10T20:16:51.1451320+08:00",
+  "expected_pairs": 30,
+  "passed_pairs": 28,
+  "short_test_frames": 360,
+  "notices": {
+    "PurpleWave|Heartbreak Ridge": "这个组合在本机短测中出现开局退出或超时。",
+    "Skynet|Destination": "这个组合在本机短测中出现开局退出或超时。"
+  },
+  "opponent_hosts": [
+    "McRave|Benzene"
+  ],
+  "test_summaries": [
+    "E:\\StarCraft_llmteam\\commander_desktop\\validation\\matrix\\20261110-194645-145078\\summary.json",
+    "E:\\StarCraft_llmteam\\commander_desktop\\validation\\matrix\\20261110-200151-793654\\summary.json",
+    "E:\\StarCraft_llmteam\\commander_desktop\\validation\\matrix\\20261110-201019-835150\\summary.json",
+    "E:\\StarCraft_llmteam\\commander_desktop\\validation\\matrix\\20261110-201401-670567\\summary.json"
+  ],
+  "note": "Historical local short-test summary, not a guarantee for other environments."
+}
